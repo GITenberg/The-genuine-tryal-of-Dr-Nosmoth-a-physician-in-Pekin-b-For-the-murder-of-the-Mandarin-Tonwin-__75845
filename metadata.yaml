@@ -1,5 +1,8 @@
 _repo: The-genuine-tryal-of-Dr-Nosmoth-a-physician-in-Pekin-b-For-the-murder-of-the-Mandarin-Tonwin-__75845
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75845-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -13,6 +16,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
 description: Dr. Nosmoth = Thomas Thompson M.D.; Mandarin Tonwin = Thomas Winnington.
   On Dr. Thompson's treatment of the case of T. Winnington.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75845#The-genuine-tryal-of-Dr-Nosmoth-a-physician-in-Pekin-b-For-the-murder-of-the-Mandarin-Tonwin-_
 gutenberg_issued: '2025-04-12'
 gutenberg_type: Text
 identifiers:
